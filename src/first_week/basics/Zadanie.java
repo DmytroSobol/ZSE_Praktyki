@@ -3,7 +3,7 @@ package first_week.basics;
 public class Zadanie {
     public static void main(String[] args) {
 
-        System.out.println("Zadanie 1");
+        System.out.println("\n Zadanie 1");
         int A = 2;
         double B = 1.55;
         char C = 'L';
