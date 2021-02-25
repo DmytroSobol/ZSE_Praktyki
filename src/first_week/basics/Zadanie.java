@@ -17,8 +17,9 @@ public class Zadanie {
         System.out.println("Wynik = " + sum);
 
         System.out.println("\n Zadanie 3");
-        double sqrt = Math.sqrt(7);
-        System.out.println("Wynik = " + sqrt);
+        double pierw = Math.sqrt(3);
+        double bok = 7;
+        System.out.println("Wynik = " + pierw*bok*bok/4);
 
         System.out.println("\n Zadanie 4");
         String Imie = "Dmytro";
