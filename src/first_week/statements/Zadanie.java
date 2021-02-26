@@ -86,6 +86,15 @@ public class Zadanie {
             }
         }
 
+        if(x == y && y == z){
+            System.out.println("3 liczby są takie same");
+        }
+        else{
+            if(x == y || y == z || x == z){
+                System.out.println("2 liczby są takie same");
+            }
+        }
+
 
         //Zadanie 5
         System.out.println("\n Zadanie 5 \n");
