@@ -25,14 +25,35 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/second_week/statements" />
   </component>
-  <component name="RunManager" selected="Application.Zadanie (1)">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\GitHub\ZSE_Praktyki\src\second_week\statements" />
+      <recent name="H:\GitHub\ZSE_Praktyki\src\second_week" />
+      <recent name="H:\GitHub\ZSE_Praktyki\src\second_week\loops" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Zadanie (2)">
     <configuration name="Zadanie (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_week.statements.Zadanie" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="first_week.statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.loops.Zadanie" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,26 +100,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.basics.lekcja1" />
-      <module name="ZSE_Praktyki" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="first_week.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie (2)" />
         <item itemvalue="Application.Zadanie (1)" />
         <item itemvalue="Application.lekcja (1)" />
         <item itemvalue="Application.Zadanie" />
         <item itemvalue="Application.lekcja" />
-        <item itemvalue="Application.lekcja1" />
       </list>
     </recent_temporary>
   </component>
