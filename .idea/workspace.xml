@@ -34,7 +34,7 @@
       <recent name="H:\GitHub\ZSE_Praktyki\src\second_week\loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zadanie (2)">
+  <component name="RunManager" selected="Application.Zadanie (3)">
     <configuration name="Zadanie (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_week.statements.Zadanie" />
       <module name="ZSE_Praktyki" />
@@ -54,6 +54,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="second_week.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second_week.tables.Zadanie" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second_week.tables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,26 +100,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.basics.lekcja" />
-      <module name="ZSE_Praktyki" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="first_week.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie (3)" />
         <item itemvalue="Application.Zadanie (2)" />
         <item itemvalue="Application.Zadanie (1)" />
         <item itemvalue="Application.lekcja (1)" />
         <item itemvalue="Application.Zadanie" />
-        <item itemvalue="Application.lekcja" />
       </list>
     </recent_temporary>
   </component>
