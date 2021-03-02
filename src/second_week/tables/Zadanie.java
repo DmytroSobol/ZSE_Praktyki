@@ -94,8 +94,8 @@ public class Zadanie {
         }
         System.out.println();
         System.out.println("Tablica posortowana");
-        Arrays.sort(tab2,0,9);
-        Arrays.sort(tab2,10,20, Collections.reverseOrder());
+        Arrays.sort(tab2,0,10);
+        Arrays.sort(tab2,10,tab2.length, Collections.reverseOrder());
         System.out.print("Tablica wynosi {");
         for(int i = 0; i < tab2.length ; i++){
             if (i == tab2.length - 1){
