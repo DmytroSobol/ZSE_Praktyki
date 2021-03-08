@@ -17,6 +17,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1osf4J8eXsO1nc7nDsySD4ygeZR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/second_week/statements" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -34,13 +42,13 @@
       <recent name="H:\GitHub\ZSE_Praktyki\src\second_week\loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zadanie">
-    <configuration name="Zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.ArrayList.Zadania" />
+  <component name="RunManager" selected="Application.zadanie7$Piecznie">
+    <configuration name="Zadanie3wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.Zadanie.Zadanie3wykorzystanie" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.ArrayList.*" />
+          <option name="PATTERN" value="third_week.packages.Zadanie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.statements.Zadanie" />
+    <configuration name="zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.Zadanie.zadanie4" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.statements.*" />
+          <option name="PATTERN" value="third_week.packages.Zadanie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.loops.Zadanie" />
+    <configuration name="zadanie5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.Zadanie.zadanie5" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.loops.*" />
+          <option name="PATTERN" value="third_week.packages.Zadanie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.tables.Zadanie" />
+    <configuration name="zadanie6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.Zadanie.zadanie6" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.tables.*" />
+          <option name="PATTERN" value="third_week.packages.Zadanie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="second_week.methodsAndObjects.Zadanie" />
+    <configuration name="zadanie7$Piecznie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.packages.Zadanie.zadanie7$Piecznie" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="second_week.methodsAndObjects.*" />
+          <option name="PATTERN" value="third_week.packages.Zadanie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zadanie" />
-        <item itemvalue="Application.Zadania" />
-        <item itemvalue="Application.Zadanie (3)" />
-        <item itemvalue="Application.Zadanie (2)" />
-        <item itemvalue="Application.Zadanie (1)" />
+        <item itemvalue="Application.zadanie7$Piecznie" />
+        <item itemvalue="Application.zadanie6" />
+        <item itemvalue="Application.zadanie5" />
+        <item itemvalue="Application.zadanie4" />
+        <item itemvalue="Application.Zadanie3wykorzystanie" />
       </list>
     </recent_temporary>
   </component>
