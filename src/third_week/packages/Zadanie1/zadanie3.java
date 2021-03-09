@@ -1,4 +1,4 @@
-package third_week.packages.Zadanie;
+package third_week.packages.Zadanie1;
 
 public class zadanie3 {
     protected int mnozenie(int a, int b){

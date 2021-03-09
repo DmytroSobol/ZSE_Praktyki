@@ -1,4 +1,4 @@
-package third_week.packages.Zadanie;
+package third_week.packages.Zadanie1;
 
 public class zadanie1 {
     public static char imie(String a, String b){

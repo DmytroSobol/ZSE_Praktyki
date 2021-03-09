@@ -1,4 +1,4 @@
-package third_week.packages.Zadanie;
+package third_week.packages.Zadanie1;
 
 import java.util.Scanner;
 
