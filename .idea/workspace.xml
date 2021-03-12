@@ -42,13 +42,13 @@
       <recent name="H:\GitHub\ZSE_Praktyki\src\second_week\loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.zadanie7$Piecznie">
-    <configuration name="Zadanie3wykorzystanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="third_week.packages.Zadanie.Zadanie3wykorzystanie" />
+  <component name="RunManager" selected="Application.WyjatkiZajecia">
+    <configuration name="WyjatkiZajecia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.exceptions.WyjatkiZajecia" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="third_week.packages.Zadanie.*" />
+          <option name="PATTERN" value="third_week.exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WyjatkiZajecia" />
         <item itemvalue="Application.zadanie7$Piecznie" />
         <item itemvalue="Application.zadanie6" />
         <item itemvalue="Application.zadanie5" />
         <item itemvalue="Application.zadanie4" />
-        <item itemvalue="Application.Zadanie3wykorzystanie" />
       </list>
     </recent_temporary>
   </component>
